@@ -16,10 +16,10 @@ https://mausam-forecastfellow.netlify.app/
 To install this project run
 
 ```bash
-  git clone https://github.com/PreetPandya/Weather-Forecasting-App.git
+  git clone https://github.com/SWAraj999/Weather-React-App
 ```
 ```bash
-  cd Weather-Forecasting-App
+  cd Weather-React-App
 ```
 ```bash
   npm install
